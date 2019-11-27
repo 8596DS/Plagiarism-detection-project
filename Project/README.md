@@ -9,13 +9,13 @@ This project builds a plagiarism detector that examines a text file and performs
 
 This project uses the following software and Python libraries:
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-Amazon SageMaker
+1. Python
+2. NumPy
+3. Pandas
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
+7. Amazon SageMaker
 
 ## Project Overview
 
